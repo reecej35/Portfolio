@@ -1,13 +1,10 @@
 html {
   background-color: black;
-
-
-
 }
 
 h1 {
   text-align: center;
-  background-color: #D1DAF3;
+  background: linear-gradient(#AB3FBA,black,#6BF6F6);
   border: 4px ridge white;
   border-style:
 }
@@ -32,7 +29,6 @@ h1 {
   background-image: url(http://67.media.tumblr.com/f6d92b59d8ded89e9ceb1aa9717d3a20/tumblr_o0avdrbU7T1twd8ddo1_500.gif);
   float: left;
   text-align: center;
-
 }
 
 .column1 {
@@ -61,4 +57,20 @@ a:hover {
 }
 strong {
   text-decoration: underline;
+}
+
+.last {
+  color: white;
+  float: right;
+  margin-right: 30%;
+
+}
+
+.rj {
+
+  border: 4px ridge white;
+  margin-top: 30px;
+  margin-left: -42.5%;
+  height: 320px;
+  width: 320px;
 }
